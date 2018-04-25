@@ -1,4 +1,4 @@
-package com.bignerdranch.android.weatherapp;
+package com.bignerdranch.android.weatherapp.model;
 
 /**
  * Created by berekethaile on 4/24/18.
